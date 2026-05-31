@@ -16,3 +16,5 @@ O objetivo foi centralizar as informações reunidas e transformar as visões e 
 <summary><b> Clique aqui para visualizar outros designs.
 
 #<img width="1600" height="1200" alt="site" src="https://github.com/user-attachments/assets/84068cf4-00be-46c1-9ae3-505970deecf3" />
+
+</details>

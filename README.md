@@ -16,7 +16,7 @@ O objetivo foi centralizar as informações reunidas e transformar as visões e 
 <summary><b> Clique aqui para visualizar outros designs.
 
 # Site
-#<img width="1600" height="1200" alt="site" src="https://github.com/user-attachments/assets/84068cf4-00be-46c1-9ae3-505970deecf3" />
+<img width="1600" height="1200" alt="site" src="https://github.com/user-attachments/assets/84068cf4-00be-46c1-9ae3-505970deecf3" />
 
 # Campanhas
 <img width="1600" height="1200" alt="campanhas" src="https://github.com/user-attachments/assets/73a82197-d501-40e9-b4f4-d80a47ddd8dc" />

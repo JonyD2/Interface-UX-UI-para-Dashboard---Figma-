@@ -12,23 +12,24 @@ O objetivo foi centralizar as informações reunidas e transformar as visões e 
 # Produtos - Conversões e Contratações por Produto
 <img width="1600" height="1097" alt="produtos" src="https://github.com/user-attachments/assets/b34d0e60-527c-4923-812c-c55ffa339430" />
 
-<details>
-  
-<summary><b> Clique aqui para visualizar outros designs.
+---
 
-# Site
+<details>
+<summary><b>Clique aqui para visualizar outros designs</b></summary>
+
+### Site
 <img width="1600" height="1200" alt="site" src="https://github.com/user-attachments/assets/84068cf4-00be-46c1-9ae3-505970deecf3" />
 
-# Campanhas
+### Campanhas
 <img width="1600" height="1200" alt="campanhas" src="https://github.com/user-attachments/assets/73a82197-d501-40e9-b4f4-d80a47ddd8dc" />
 
-# Contratos
+### Contratos
 <img width="875" height="775" alt="contratos" src="https://github.com/user-attachments/assets/b2292ba6-5ce8-48ac-9cfb-6ec5fb50b3d1" />
 
-# Base
+### Base
 <img width="1600" height="1170" alt="base" src="https://github.com/user-attachments/assets/f2b307ae-ee39-4b9e-b4c0-58c7a4251977" />
 
-# Cliente
+### Cliente
 <img width="1600" height="1197" alt="cliente" src="https://github.com/user-attachments/assets/fbcf2deb-e1e6-441b-b139-f7a9f816a8a2" />
 
 </details>

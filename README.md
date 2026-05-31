@@ -13,6 +13,7 @@ O objetivo foi centralizar as informações reunidas e transformar as visões e 
 <img width="1600" height="1097" alt="produtos" src="https://github.com/user-attachments/assets/b34d0e60-527c-4923-812c-c55ffa339430" />
 
 <details>
+  
 <summary><b> Clique aqui para visualizar outros designs.
 
 # Site
